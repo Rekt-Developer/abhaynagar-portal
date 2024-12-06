@@ -1,8 +1,24 @@
 # abhaynagar-portal
 A modern, SEO-optimized static news portal about Abhaynagar Upazila, Bangladesh, featuring bilingual (Bangla &amp; English) grids and an advanced layout using modern CDNs.
 
-
-# Abhaynagar Portal
+.
+├── index.html
+├── sitemap.xml
+├── robots.txt
+├── README.md
+├── 404.html
+├── tos.html
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   ├── js/
+│   │   └── script.js
+│   └── images/
+│       ├── banner.jpg
+│       ├── abhaynagar_map.png
+│       └── mukteshwari_river.jpg
+├── news/ (All md get showen and automated fitched from the folder)
+│   └── বিএনপি_নেতা_কর্মীদের_বাড়ি_বাড়ি_বোমা_বিস্ফোরণের_ঘটনা_পুনরায়_তদন্তের_পাশাপাশা.md
 
 **A bilingual, SEO-optimized portal about Abhaynagar Upazila, Bangladesh.**
 
